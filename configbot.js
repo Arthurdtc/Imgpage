@@ -101,7 +101,7 @@ function criarBarra(var_nome, var_avatar) {
       link.id   = cssId;
       link.rel  = 'stylesheet';
       link.type = 'text/css';
-      link.href = 'https://typebot-template.netlify.app/whatsapp/style.css';
+      link.href = 'https://raw.githubusercontent.com/Arthurdtc/Imgpage/main/bot.css';
       link.media = 'all';
       head.appendChild(link);
   }
