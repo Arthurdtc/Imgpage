@@ -305,7 +305,7 @@
     max-width:    -moz-calc(100% - 60px) !important;
     max-width:         calc(100% - 60px) !important;  
     position: fixed;
-    bottom: 7%;
+    bottom: 100vh;
     right: 55px;
     align-items: center;
     z-index: 9999;
